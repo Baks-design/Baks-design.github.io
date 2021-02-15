@@ -15,10 +15,6 @@ author: Adriano Barroso Silva Albuquerque
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -39,19 +35,20 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "adrianoalbconnect@gmail.com"
+  twitter: https://twitter.com/AdrianoBaks
+  linkedin: https://www.linkedin.com/in/adriano-barroso-67633a202/
+  github: https://github.com/Baks-design
+#  google-scholar: your google scholar
+#  spotify: adrianobarr
+#  facebook: deanattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  reddit: yourname
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -60,19 +57,18 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
   linkedin: true
+  facebook: false
   vk: false
 
 # How to display the link to your website in the footer
