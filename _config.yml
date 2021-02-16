@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Baks Works
+title: Adriano Barroso
 
 # Your name to show in the footer
 author: Adriano Barroso
@@ -14,7 +14,7 @@ author: Adriano Barroso
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "about me"
 
 # --- Logo --- #
 
